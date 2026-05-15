@@ -96,6 +96,19 @@ python main.py
 On first run, the program seeds four sample members and six sample workouts so
 the menu options work immediately.
 
+### Screenshots
+
+**Main menu running:**
+![Main menu](screenshots/menu.png)
+
+**Members table (Option 1):**
+![Members](screenshots/members.png)
+
+**Queries with logical operators (Option 6):**
+![Queries](screenshots/queries.png)
+
+**Log file output:**
+![Log file](screenshots/log_file.png)
 ---
 
 ## 4. Database Schema
@@ -171,7 +184,7 @@ git commit -m "docs: add README and debugging report"
 ![Branches](screenshots/github_branches.png)
 ![Commits](screenshots/github_commits.png)
 
-**GitHub repository:** `<paste your repo URL here>`
+**GitHub repository:** (https://github.com/ibz2splash/gym-management-system)
 
 ---
 
@@ -179,8 +192,7 @@ git commit -m "docs: add README and debugging report"
 
 | Team Member | Role | Tasks |
 |---|---|---|
-| Member 1 | Database & File Handling | `database.py`, `file_operations.py`, CSV/JSON, debugging report |
-| Member 2 | API, Logging & Integration | `api_integration.py`, `logger_config.py`, `main.py`, profiling, README |
+| Ibrahim Baqer | Sole Developer (solo project) | All modules: database, file handling, API integration, logging, debugging, documentation ||
 
 ---
 
