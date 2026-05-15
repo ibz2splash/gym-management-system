@@ -168,8 +168,8 @@ git commit -m "docs: add README and debugging report"
 # Merge feature branches into main via Pull Requests on GitHub
 ```
 
-> **Insert your Git screenshots here** (branches view, commit history,
-> merged pull requests).
+![Branches](screenshots/github_branches.png)
+![Commits](screenshots/github_commits.png)
 
 **GitHub repository:** `<paste your repo URL here>`
 
