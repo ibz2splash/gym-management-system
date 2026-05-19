@@ -12,3 +12,8 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+gym.db
+logs/
+exports/*.csv
+exports/*.json
