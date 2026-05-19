@@ -1,0 +1,102 @@
+[
+    {
+        "api_id": 1962,
+        "name": "Step Jack",
+        "category_id": 15
+    },
+    {
+        "api_id": 1963,
+        "name": "Slow Squat",
+        "category_id": 9
+    },
+    {
+        "api_id": 1964,
+        "name": "Wide Push-Up",
+        "category_id": 11
+    },
+    {
+        "api_id": 1965,
+        "name": "Marching High Knees",
+        "category_id": 9
+    },
+    {
+        "api_id": 31,
+        "name": "Axe Hold",
+        "category_id": 8
+    },
+    {
+        "api_id": 805,
+        "name": "Tricep Pushdown on Cable",
+        "category_id": 8
+    },
+    {
+        "api_id": 981,
+        "name": "Step-ups",
+        "category_id": 9
+    },
+    {
+        "api_id": 980,
+        "name": "commando pull-ups",
+        "category_id": 10
+    },
+    {
+        "api_id": 1022,
+        "name": "Single Arm Plank to Row",
+        "category_id": 12
+    },
+    {
+        "api_id": 820,
+        "name": "Fingerboard 20 mm edge",
+        "category_id": 8
+    },
+    {
+        "api_id": 828,
+        "name": "Incline Bench Reverse Fly",
+        "category_id": 12
+    },
+    {
+        "api_id": 907,
+        "name": "Handstand Push Up",
+        "category_id": 13
+    },
+    {
+        "api_id": 908,
+        "name": "Zone 2 Running",
+        "category_id": 15
+    },
+    {
+        "api_id": 923,
+        "name": "LYING DUMBBELL ROW SS SEATED SHRUG",
+        "category_id": 12
+    },
+    {
+        "api_id": 927,
+        "name": "Suspended crossess",
+        "category_id": 15
+    },
+    {
+        "api_id": 958,
+        "name": "Biceps with TRX",
+        "category_id": 10
+    },
+    {
+        "api_id": 960,
+        "name": "Kettlebell Swing",
+        "category_id": 10
+    },
+    {
+        "api_id": 961,
+        "name": "Swimming 50m sprints",
+        "category_id": 15
+    },
+    {
+        "api_id": 57,
+        "name": "Bear Walk 2",
+        "category_id": 11
+    },
+    {
+        "api_id": 975,
+        "name": "one-handed kettlebell curls",
+        "category_id": 8
+    }
+]

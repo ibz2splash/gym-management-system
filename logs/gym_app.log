@@ -1,0 +1,36 @@
+2026-05-14 15:08:04 | INFO     | gym_app | Application starting...
+2026-05-14 15:08:04 | INFO     | gym_app | Creating tables (if they do not exist)...
+2026-05-14 15:08:04 | INFO     | gym_app | Tables created successfully.
+2026-05-14 15:08:04 | INFO     | gym_app | Seeding sample data...
+2026-05-14 15:08:04 | INFO     | gym_app | Inserted member id=1 name='Ibrahim Baqer'
+2026-05-14 15:08:04 | INFO     | gym_app | Inserted member id=2 name='Sara Al-Lawati'
+2026-05-14 15:08:04 | INFO     | gym_app | Inserted member id=3 name='Khalid Al-Habsi'
+2026-05-14 15:08:04 | INFO     | gym_app | Inserted member id=4 name='Aisha Al-Riyami'
+2026-05-14 15:08:04 | INFO     | gym_app | Inserted workout id=1 for member_id=1
+2026-05-14 15:08:04 | INFO     | gym_app | Inserted workout id=2 for member_id=1
+2026-05-14 15:08:04 | INFO     | gym_app | Inserted workout id=3 for member_id=2
+2026-05-14 15:08:04 | INFO     | gym_app | Inserted workout id=4 for member_id=3
+2026-05-14 15:08:04 | INFO     | gym_app | Inserted workout id=5 for member_id=3
+2026-05-14 15:08:04 | INFO     | gym_app | Inserted workout id=6 for member_id=4
+2026-05-14 15:08:04 | INFO     | gym_app | Sample data seeded.
+2026-05-14 15:08:21 | INFO     | gym_app | Retrieved 4 members into DataFrame.
+2026-05-14 15:08:26 | INFO     | gym_app | Retrieved 4 members into DataFrame.
+2026-05-14 15:08:34 | INFO     | gym_app | Retrieved 4 members into DataFrame.
+2026-05-14 15:08:51 | INFO     | gym_app | Query 1 (AND) returned 1 rows.
+2026-05-14 15:08:51 | INFO     | gym_app | Query 2 (OR) returned 2 rows.
+2026-05-14 15:09:01 | INFO     | gym_app | Retrieved 4 members into DataFrame.
+2026-05-14 15:09:01 | INFO     | gym_app | Exported 4 rows to exports/members_export.csv
+2026-05-14 15:09:10 | INFO     | gym_app | Calling Wger API: https://wger.de/api/v2/exerciseinfo/?language=2&limit=20
+2026-05-14 15:09:11 | INFO     | gym_app | API returned 20 raw exercise records.
+2026-05-14 15:09:11 | INFO     | gym_app | Parsed 20 usable exercises from API.
+2026-05-14 15:09:11 | INFO     | gym_app | Stored 20 exercises into api_exercises table.
+2026-05-14 15:09:11 | INFO     | gym_app | Saved JSON output to exports/exercises_output.json
+2026-05-14 15:09:18 | INFO     | gym_app | Application exit requested by user.
+2026-05-14 15:14:07 | INFO     | gym_app | Application starting...
+2026-05-14 15:14:07 | INFO     | gym_app | Creating tables (if they do not exist)...
+2026-05-14 15:14:07 | INFO     | gym_app | Tables created successfully.
+2026-05-14 15:14:07 | INFO     | gym_app | Sample data already present, skipping seeding.
+2026-05-14 15:14:25 | INFO     | gym_app | Retrieved 4 members into DataFrame.
+2026-05-14 15:14:50 | INFO     | gym_app | Query 1 (AND) returned 1 rows.
+2026-05-14 15:14:50 | INFO     | gym_app | Query 2 (OR) returned 2 rows.
+2026-05-14 15:50:18 | INFO     | gym_app | Application exit requested by user.
